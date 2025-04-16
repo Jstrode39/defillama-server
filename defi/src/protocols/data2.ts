@@ -30819,3 +30819,24 @@ const data2: Protocol[] = [
   },
 ];
 export default data2;
+
+{
+  id: "iplr",
+  name: "Infinite Price Liquidity Rocket",
+  address: "solana:EyzgnBfHGe9hh169B8993muBVcoeURCnSgPbddBeSybo",
+  symbol: "IPLR",
+  url: "https://www.infinitepriceliquidityrocket.com/",
+  description: "IPLR is a Solana-based LP rewards token offering passive IPLR + SOL rewards with deflationary mechanics.",
+  chain: "Solana",
+  logo: "https://raw.githubusercontent.com/Jstrode39/DefiLlama-Adapters/main/IPLR-logo.png",
+  audit_links: [],
+  twitter: "https://x.com/iplrocket?s=21",
+  discord: "https://discord.gg/At3y6fq6",
+  telegram: "https://t.me/IPLRocketSOL",
+  category: "LP Staking",
+  module: "iplr/index.js",
+  tvlId: "iplr",
+  oracles: [],
+  tags: ["lp-staking", "rewards", "solana"]
+}
+
